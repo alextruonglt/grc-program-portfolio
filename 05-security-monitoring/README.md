@@ -1,9 +1,9 @@
 # 05 - Security Monitoring
 
-**Organization:** ABC Corp | Microsoft Azure Cloud Environment
-**Prepared by:** Alex Truong | GRC Analyst, Governance Risk and Compliance
-**Effective Date:** March 5, 2026
-**Environment:** Live Production Azure Shared Tenant (~1,000+ Users | Microsoft Sentinel SIEM)
+**Organization:** ABC Corp | Microsoft Azure Cloud Environment  
+**Prepared by:** Alex Truong | GRC Analyst, Governance Risk and Compliance  
+**Effective Date:** March 5, 2026  
+**Environment:** Live Production Azure Shared Tenant (~1,000+ Users | Microsoft Sentinel SIEM)  
 
 ---
 
