@@ -1,11 +1,11 @@
 # Privileged Access Management (PAM) Standard
 
-**Organization:** ABC Corp | Microsoft Entra ID Tenant
-**Prepared by:** Alex Truong | Identity and Access Governance Analyst
-**Date:** March 5, 2026
-**Version:** 1.0
-**Classification:** CONFIDENTIAL
-**Document Type:** Technical Standard (subordinate to the Access Control Policy)
+**Organization:** ABC Corp | Microsoft Entra ID Tenant  
+**Prepared by:** Alex Truong | Identity and Access Governance Analyst  
+**Date:** March 5, 2026  
+**Version:** 1.0  
+**Classification:** CONFIDENTIAL  
+**Document Type:** Technical Standard (subordinate to the Access Control Policy)  
 
 > **Disclaimer:** This is a sanitized version of a Privileged Access Management Standard produced following a gap assessment conducted on a live Azure cloud environment. All organization names, account names, and domain references have been replaced with generic equivalents to protect confidentiality. No proprietary organizational data is represented. This document is published for portfolio and educational purposes only.
 
