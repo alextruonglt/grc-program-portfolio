@@ -4,7 +4,7 @@
 **Prepared by:** Alex Truong | GRC Analyst, Governance Risk and Compliance  
 **Assessment Date:** March 5, 2026  
 **Environment:** Live Production Microsoft Azure Shared Tenant (~1,000+ Users)  
-**Frameworks:** NIST SP 800-53 Rev 5 | NIST CSF 2.0 | ISO/IEC 27001:2022 | SOC 2 TSC | MITRE ATT&CK
+**Frameworks:** NIST SP 800-53 Rev 5 | NIST CSF 2.0 | ISO/IEC 27001:2022 | SOC 2 TSC
 
 ---
 
