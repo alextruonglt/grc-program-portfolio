@@ -1,11 +1,11 @@
 # Information Security Policy
 
-**Organization:** ABC Corp | Microsoft Entra ID Tenant
-**Prepared by:** Alex Truong | Identity and Access Governance Analyst
-**Date:** March 5, 2026
-**Version:** 1.0
-**Classification:** CONFIDENTIAL
-**Review Cadence:** Annual (next review due March 2027)
+**Organization:** ABC Corp | Microsoft Entra ID Tenant  
+**Prepared by:** Alex Truong | GRC Analyst, Governance Risk and Compliance
+**Date:** March 5, 2026  
+**Version:** 1.0  
+**Classification:** CONFIDENTIAL  
+**Review Cadence:** Annual (next review due March 2027)  
 
 > **Disclaimer:** This is a sanitized version of an Information Security Policy produced following a gap assessment conducted on a live Azure cloud environment. All organization names, account names, and domain references have been replaced with generic equivalents to protect confidentiality. No proprietary organizational data is represented. This document is published for portfolio and educational purposes only.
 
