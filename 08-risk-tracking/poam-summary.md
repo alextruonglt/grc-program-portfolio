@@ -1,9 +1,9 @@
 # Plan of Action and Milestones (POA&M)
 
-**Organization:** ABC Corp | Microsoft Entra ID Tenant
-**Prepared by:** Alex Truong | Identity and Access Governance Analyst
-**Audit Date:** March 5, 2026
-**Classification:** CONFIDENTIAL
+**Organization:** ABC Corp | Microsoft Entra ID Tenant  
+**Prepared by:** Alex Truong | Identity and Access Governance Analyst  
+**Audit Date:** March 5, 2026  
+**Classification:** CONFIDENTIAL  
 
 > **Disclaimer:** This is a sanitized version of a Plan of Action and Milestones produced from a gap assessment conducted on a live Azure cloud environment. All organization names, account names, and domain references have been replaced with generic equivalents to protect confidentiality. No proprietary organizational data is represented. This document is published for portfolio and educational purposes only.
 
