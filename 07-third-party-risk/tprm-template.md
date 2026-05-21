@@ -1,10 +1,10 @@
 # Third-Party Risk Assessment Template
 
-**Organization:** ABC Corp | Microsoft Azure Cloud Environment
-**Prepared by:** Alex Truong | GRC Analyst, Third-Party Risk Management
-**Date:** March 5, 2026
-**Version:** 1.0
-**Classification:** CONFIDENTIAL
+**Organization:** ABC Corp | Microsoft Azure Cloud Environment  
+**Prepared by:** Alex Truong | GRC Analyst, Third-Party Risk Management  
+**Date:** March 5, 2026  
+**Version:** 1.0  
+**Classification:** CONFIDENTIAL  
 
 > ⚠️ **Disclaimer:** This is a sanitized version of a Third-Party Risk Assessment Template developed for a live production Microsoft Azure environment. All organization names, vendor account references, and domain-specific details have been replaced with generic equivalents to protect confidentiality. No proprietary organizational data is represented. This document is published for portfolio and educational purposes only.
 
