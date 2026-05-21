@@ -1,9 +1,9 @@
 # 06 - Configuration Baseline
 
-**Organization:** ABC Corp | Microsoft Azure Cloud Environment
-**Prepared by:** Alex Truong | GRC Analyst, Governance Risk and Compliance
-**Effective Date:** March 5, 2026
-**Environment:** Live Production Azure Shared Tenant (~1,000+ Users | 126 Assets Under Management)
+**Organization:** ABC Corp | Microsoft Azure Cloud Environment  
+**Prepared by:** Alex Truong | GRC Analyst, Governance Risk and Compliance  
+**Effective Date:** March 5, 2026  
+**Environment:** Live Production Azure Shared Tenant (~1,000+ Users | 126 Assets Under Management)  
 
 ---
 
