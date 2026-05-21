@@ -1,10 +1,10 @@
 # KQL Detection Rule Library
 
-**Organization:** ABC Corp | Microsoft Azure Cloud Environment
-**Prepared by:** Alex Truong | Security Operations and Detection Engineering Analyst
-**Date:** March 5, 2026
-**Version:** 1.0
-**Classification:** CONFIDENTIAL
+**Organization:** ABC Corp | Microsoft Azure Cloud Environment  
+**Prepared by:** Alex Truong | Security Operations and Detection Engineering Analyst  
+**Date:** March 5, 2026  
+**Version:** 1.0  
+**Classification:** CONFIDENTIAL  
 
 > **Disclaimer:** This is a sanitized version of a KQL Detection Rule Library produced from a gap assessment conducted on a live Azure cloud environment. All organization names, account names, and domain references have been replaced with generic equivalents to protect confidentiality. No proprietary organizational data is represented. This document is published for portfolio and educational purposes only.
 
