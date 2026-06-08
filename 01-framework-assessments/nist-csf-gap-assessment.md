@@ -1,10 +1,10 @@
 # NIST Cybersecurity Framework 2.0 Assessment Report
 
-**Organization:** ABC Corp | Microsoft Entra ID Tenant
-**Prepared by:** Alex Truong | Identity & Access Governance Analyst
-**Audit Date:** March 5, 2026
-**Environment:** Shared Azure Tenant | ~1,000+ Users
-**Classification:** CONFIDENTIAL
+**Organization:** ABC Corp | Microsoft Entra ID Tenant  
+**Prepared by:** Alex Truong | Identity & Access Governance Analyst  
+**Audit Date:** March 5, 2026  
+**Environment:** Shared Azure Tenant | ~1,000+ Users  
+**Classification:** CONFIDENTIAL  
 
 ---
 
